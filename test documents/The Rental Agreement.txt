@@ -1,0 +1,35 @@
+The Rental Agreement
+
+
+This Rental Agreement ("Agreement") is made on this ___ day of _______, 20, by and between:
+Landlord: [Landlord's Full Name]
+Address: [Landlord's Address]
+AND
+Tenant: [Tenant's Full Name]
+Address: [Tenant's Address]
+Premises: The Landlord agrees to rent to the Tenant the residential property located at:
+[Full Address of the Property]
+Terms and Conditions:
+1.	Term:
+The lease term will begin on [Start Date] and end on [End Date]. After this period, the lease will convert to a month-to-month tenancy unless either party provides written notice of termination 30 days prior to the end of the term.
+2.	Rent:
+Tenant agrees to pay the Landlord a monthly rent of [Amount in currency], payable in advance on the 1st day of each month.
+3.	Security Deposit:
+Tenant shall pay a security deposit of [Amount] before moving in, refundable at the end of tenancy subject to deductions for damages or unpaid rent.
+4.	Use of Premises:
+The premises shall be used solely for residential purposes by the Tenant and immediate family.
+5.	Utilities:
+Tenant is responsible for payment of all utilities except [List if any utilities paid by Landlord].
+6.	Maintenance and Repairs:
+Tenant agrees to keep the premises clean and in good condition. Any damages beyond normal wear and tear will be repaired at Tenant's expense.
+7.	Termination:
+Either party may terminate this Agreement by providing 30-days written notice.
+8.	Governing Law:
+This Agreement shall be governed by the laws of [State/Region].
+Signatures
+________________________________________
+Landlord
+________________________________________
+Tenant
+Date: ________________
+
