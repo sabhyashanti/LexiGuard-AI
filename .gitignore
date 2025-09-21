@@ -1,0 +1,63 @@
+# Node modules
+node_modules/
+functions/node_modules/  # Specific to your Cloud Functions
+lexiguard-ui/node_modules/ # Specific to your React UI
+lexiguard-ui/.git/
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+firebase-debug.log*
+firebase-debug.*.log*
+
+# Firebase specific files and caches
+.firebase/ # Firebase local cache/config directory
+.firebaserc # Recommended to be in Git if working in a team on same project, but can be ignored if everyone manages their own setup
+firebase-key.json # IMPORTANT: Add if you have a service account key file in your root
+
+# Compiled output directories
+functions/lib/       # TypeScript compiled output for Cloud Functions
+lexiguard-ui/build/  # React app's production build output
+
+# Editor specific files and directories
+.vscode/
+.idea/
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.eslintcache
+
+# Dependency management files
+package-lock.json # Or yarn.lock if you use yarn
+pnpm-lock.yaml
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage/Testing reports
+coverage/
+.nyc_output/
+lib-cov/
+
+# Build artifacts
+build/Release/ # Compiled binary addons (e.g., node-waf)
+*.tgz           # Output of 'npm pack'
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.runtimeconfig.json # Firebase Cloud Functions environment variables (VERY IMPORTANT to ignore if it contains secrets!)
+
+# DataConnect generated files (if you use DataConnect)
+.dataconnect/
+
+# Miscellaneous
+*.zip
+*.rar
